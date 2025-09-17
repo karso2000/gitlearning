@@ -1,1 +1,2 @@
 get teh user data from the user
+process the data
